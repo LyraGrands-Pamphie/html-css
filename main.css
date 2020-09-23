@@ -1,0 +1,22 @@
+h1{
+    font-size: 60px;
+}
+
+:root{
+--background-color: aquamarine;
+}
+
+p{
+    color: rgb(228, 8, 191);
+}
+
+body{
+    color: rgb(180, 5, 5);
+    font-size: 24px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    
+}
